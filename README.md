@@ -16,11 +16,11 @@ This blog is my space to document CTF walkthroughs, share tips for beginners, an
 ## CTF Writeup
 
 <a
-  href="./overthewire/">
+  href="overthewire/">
   <img src="https://img.shields.io/badge/Overthewire%20walkthrough-gray" width="400">
 </a>
 
 <a
-  href="./tryhackme/">
+  href="tryhackme/">
   <img src="https://img.shields.io/badge/Tryhackme%20walkthrough-green" width="400">
 </a>
