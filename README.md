@@ -9,8 +9,13 @@ This blog is my space to document CTF walkthroughs, share tips for beginners, an
 ## Links
 
 <a
-  href="https://github.com/ritheachengkh">
+  href="https://github.com/ritheachengkh" target="_blank">
   <img src="https://img.shields.io/badge/Github%20Repo-black" width="200">
+</a>
+
+<a
+  href="https://ritheacheng.com" target="_blank">
+  <img src="https://img.shields.io/badge/Personal%20Website-purple" width="250">
 </a>
 
 ## CTF Writeup
