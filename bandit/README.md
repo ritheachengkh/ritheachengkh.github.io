@@ -8,6 +8,7 @@ Welcome to my walkthrough documentation for the **Bandit** wargame on **OverTheW
 
 This documentation is meant as an educational resource — not a shortcut. Happy hacking!
 
+[Intro](Intro/)  
 [Bandit level 0](bandit0/)  
 [Bandit level 1](bandit1/)  
 [Bandit level 2](bandit2/)  
