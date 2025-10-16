@@ -16,8 +16,10 @@ This documentation is meant as an educational resource — not a shortcut. Happy
 [Bandit level 4](bandit4/)  
 [Bandit level 5](bandit5/)  
 [Bandit level 6](bandit6/)  
-
-
+[Bandit level 7](bandit7/)  
+[Bandit level 8](bandit8/)  
+[Bandit level 9](bandit/9)  
+[Bandit level 10](bandit10/)  
 
 
 
