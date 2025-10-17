@@ -20,6 +20,32 @@ This documentation is meant as an educational resource — not a shortcut. Happy
 [Bandit level 8](bandit8/)  
 [Bandit level 9](bandit9/)  
 [Bandit level 10](bandit10/)  
+[Bandit level 11](bandit11/)  
+[Bandit level 12](bandit12/)  
+[Bandit level 13](bandit13/)  
+[Bandit level 14](bandit14/)  
+<!--
+[Bandit level 15](bandit15/)  
+[Bandit level 16](bandit16/)  
+[Bandit level 17](bandit17/)  
+[Bandit level 18](bandit18/)  
+[Bandit level 19](bandit19/)  
+[Bandit level 20](bandit20/)  
+[Bandit level 21](bandit21/)  
+[Bandit level 22](bandit22/)  
+[Bandit level 23](bandit23/)  
+[Bandit level 24](bandit24/)  
+[Bandit level 25](bandit25/)  
+[Bandit level 26](bandit26/)  
+[Bandit level 27](bandit27/)  
+[Bandit level 28](bandit28/)  
+[Bandit level 29](bandit29/)  
+[Bandit level 30](bandit30/)  
+[Bandit level 31](bandit31/)  
+[Bandit level 32](bandit32/)  
+[Bandit level 33](bandit33/)  
+--> 
+
 
 
 
