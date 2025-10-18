@@ -29,15 +29,7 @@ ssh -i sshkey.private bandid14@bandit.labs.overthewire.org -p 2220
 ⚠️ Oops, the server responded with a message about an **unprotected private key file** and **bad permissions**.
 
 ### Common Permission Examples
-| **Symbolic (rwx)** | **Numeric** | **Meaning**              |
-| ------------------ | ----------- | ------------------------ |
-| `rw-`              | 6           | Read & write             |
-| `r--`              | 4           | Read only                |
-| `rwx`              | 7           | Read, write, and execute |
-| `--x`              | 1           | Execute only             |
-| `r-x`              | 5           | Read and execute         |
-| `---`              | 0           | No permissions           |
-
+![rwx_permission](rwx_permission.jpg)
 
 SSH private keys are **sensitive and must be kept secret**. If the permissions are too open (like 644), it means other users on the system can read your private key.
 
