@@ -50,17 +50,17 @@ cp ~/data.txt .
 ![b12s3](b12s3.png)
 
 ### 💡Here’s a set of helpful Linux commands to work with compressed files—ideal for this challenge.
-| Format      | Extension      | How to Decompress (change)                    |
-|-------------|----------------|-----------------------------------------------|
-| Gzip        | .gz            | gunzip file.txt.gz or gzip -d file.txt.gz     |
-| Bzip2       | .bz2           | bunzip2 file.txt.bz2 or bzip2 -d file.txt.bz2 |
-| XZ          | .xz            | unxz file.txt.xz or  xz -d file.txt.xz        |
-| Tar         | .tar           | tar -xf archive.tar                           |
-| Tar + Gzip  | .tar.gz / .tgz | tar -xzf archive.tar.gz                       |
-| Tar + Bzip2 | .tar.bz2       | tar -xjf archive.tar.bz2                      |
-| Tar + XZ    | .tar.xz        | tar -xJf archive.tar.xz                       |
-| Zip         | .zip           | unzip archive.zip                             |
-| 7-Zip       | .7z            | 7z x archive.7z                               |
+| Format      | Extension      | How to Decompress                             |  
+|-------------|----------------|-----------------------------------------------|  
+| Gzip        | .gz            | gunzip file.txt.gz or gzip -d file.txt.gz     |  
+| Bzip2       | .bz2           | bunzip2 file.txt.bz2 or bzip2 -d file.txt.bz2 |  
+| XZ          | .xz            | unxz file.txt.xz or xz -d file.txt.xz         |  
+| Tar         | .tar           | tar -xf archive.tar                           |  
+| Tar + Gzip  | .tar.gz / .tgz | tar -xzf archive.tar.gz                       |  
+| Tar + Bzip2 | .tar.bz2       | tar -xjf archive.tar.bz2                      |  
+| Tar + XZ    | .tar.xz        | tar -xJf archive.tar.xz                       |  
+| Zip         | .zip           | unzip archive.zip                             |  
+| 7-Zip       | .7z            | 7z x archive.7z                               |  
 
 
 Since data.txt is a hexdump of a file that's been repeatedly compressed, the first step is to convert it back into its binary form with the command below.
