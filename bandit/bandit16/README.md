@@ -18,7 +18,7 @@ Helpful note: Getting “DONE”, “RENEGOTIATING” or “KEYUPDATE”? Read t
 ### 🔑 Solution
 
 ```
-ssh bandid16@bandit.labs.overthewire.org -p 2220
+ssh bandit16@bandit.labs.overthewire.org -p 2220
 ```
 Next, input the password you retrieved in the previous challenge.
 

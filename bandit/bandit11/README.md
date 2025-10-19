@@ -15,7 +15,7 @@ The password for the next level is stored in the file data.txt, where all lowerc
 ### 🔑 Solution
 
 ```
-ssh bandid11@bandit.labs.overthewire.org -p 2220
+ssh bandit11@bandit.labs.overthewire.org -p 2220
 ```
 Then enter the password obtained from the previous challenge.
 

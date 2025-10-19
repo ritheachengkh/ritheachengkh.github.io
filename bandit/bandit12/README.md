@@ -16,7 +16,7 @@ The password for the next level is stored in the file data.txt, which is a hexdu
 ### 🔑 Solution
 
 ```
-ssh bandid12@bandit.labs.overthewire.org -p 2220
+ssh bandit12@bandit.labs.overthewire.org -p 2220
 ```
 Next, input the password you retrieved in the previous challenge.
 

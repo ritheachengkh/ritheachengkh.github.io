@@ -22,7 +22,7 @@ The password for the next level can be retrieved by submitting the password of t
 Logging into Bandit 14 is slightly different, as it requires the ``-i`` flag this time. Ensure you are in the directory where you saved the SSH key from the previous challenge.
 
 ```
-ssh -i sshkey.private bandid14@bandit.labs.overthewire.org -p 2220
+ssh -i sshkey.private bandit14@bandit.labs.overthewire.org -p 2220
 ```
 ![b14s1](b14s1.png)
 
@@ -46,7 +46,7 @@ chmod 600 sshkey.private
 
 Try logging into Bandit14 again — this time, it should work without any issues.
 ```
-ssh -i sshkey.private bandid14@bandit.labs.overthewire.org -p 2220
+ssh -i sshkey.private bandit14@bandit.labs.overthewire.org -p 2220
 ```
 ![b14s3](b14s3.png)
 

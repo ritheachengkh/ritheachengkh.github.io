@@ -15,7 +15,7 @@ The password for the next level is stored in /etc/bandit_pass/bandit14 and can o
 ### 🔑 Solution
 
 ```
-ssh bandid13@bandit.labs.overthewire.org -p 2220
+ssh bandit13@bandit.labs.overthewire.org -p 2220
 ```
 Now type in the password you grabbed from the last challenge.
 
