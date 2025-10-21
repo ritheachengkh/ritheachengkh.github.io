@@ -14,25 +14,12 @@ ssh bandit24@bandit.labs.overthewire.org -p 2220
 Then enter the password obtained from the previous challenge.
 
 ### 🔑🔑🔑🔒 Brute-force Concept
-| attempts | value                                 |
-|----------|---------------------------------------|
-| 1        | bandit24_password 0000                |
-| 2        | bandit24_password 0001                |
-| 3        | bandit24_password 0002                |
-| 4        | bandit24_password 0003                |
-| 5        | bandit24_password 0004                |
-| 6        | bandit24_password 0005                |
-| ...      | ...                                   |
-| 9999     | bandit24_password 9998                |
-| 10000    | bandit24_password 9999                |
-| 🔐        | send each attempts to localhost:30002 |
-| ❌        | Wrong pin: Try Again                  |
-| ✅        | Right pin: bandit25_password          |
 
+![brute-force](brute-force.jpg)
 
 Write a loop function that repeatedly sends the value to localhost:30002 up to 10,000 times.
 
-There are many ways to solve this challenge. Tools like awk, sed, echo, cat, printf, and paste can be useful for manipulating the data.
+There are many ways to solve this challenge. Tools like `awk`, `sed`, `echo`, `cat`, `printf`, and `paste` can be useful for manipulating the data.
 
 Below are some example commands that can help you complete the challenge.
 ```
