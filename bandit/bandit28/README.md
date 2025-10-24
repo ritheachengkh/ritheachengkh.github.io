@@ -49,6 +49,13 @@ Next, use the `cat` command to view the `README.md` file again. This time, you s
 
 ![b28s7](b28s7.png)
 
+You can also use the `git show` command as an alternative to `git checkout`.
+```
+git log
+git show 8b7c651b37ce7a94633b7b7b7c980ded19a16e4f
+```
+![b28s8](b28s8.png)
+
 Awesome! You’ve successfully found the flag for the next stage.
 
 

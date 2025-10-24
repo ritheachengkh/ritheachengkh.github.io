@@ -38,13 +38,12 @@ This documentation is meant as an educational resource — not a shortcut. Happy
 [Bandit level 26](bandit26/)  
 [Bandit level 27](bandit27/)  
 [Bandit level 28](bandit28/)  
-<!--
 [Bandit level 29](bandit29/)  
 [Bandit level 30](bandit30/)  
 [Bandit level 31](bandit31/)  
 [Bandit level 32](bandit32/)  
 [Bandit level 33](bandit33/)  
---> 
+
 
 
 
