@@ -1,38 +1,61 @@
-<img src="tryhackme.jpg" alt="Logo" width="300">
+
+<img src="THM.jpg" alt="THM" width=100%>
 
 
-## 🧠 What is TryHackMe?
+##### 🧭 LEARNING PATH
+# 🛡️ Pre Security
 
-TryHackMe is an online platform that teaches cybersecurity through hands-on learning. It’s perfect for beginners and helps you go from zero to hacking hero by guiding you step-by-step in a fun and interactive way.
+| 📘 **Modules** | 🧪 **Hands-on Labs** | 🎯 **Difficulty Level** |
+|:---------------:|:-------------------:|:-----------------------:|
+| 5 | 18 | 🟢 Easy |
 
-Instead of boring textbooks, you learn by doing real-world exercises inside your browser!
+Welcome to my walkthrough documentation for the **Pre-Security Learning Path** on the **TryHackMe** platform.
+This guide is designed to support **beginners in cybersecurity** by building the essential technical foundation needed to start your journey.
+Before you can attack or defend any technology, it’s crucial to understand how that technology works — and that’s exactly what this path helps you achieve.
 
-## 🎮 How Does It Work?
+**Before hacking something, you first need to understand the basics:**
+- **Cyber security basics** 
+- **Networking basics and weaknesses** 
+- **The web and common attacks** 
+- **Learn to use the Linux operating system** 
 
-TryHackMe gives you access to virtual machines (computers in the cloud) where you solve challenges related to:
+💡 Note: I highly encourage you to **try each room on your own first**. Use this walkthrough only when you’re truly stuck or need a small push in the right direction.
 
-- Ethical hacking
-- Networking
-- Web security
-- Linux
-- Cryptography
-- And more!
+This documentation serves as an educational companion, not a shortcut.
+Stay curious, keep learning — and happy hacking! 🛡️💻
 
-Each topic is broken into a "room" — a themed learning module with notes, tasks, and a built-in terminal to practice on.
+## SECTION 1: Introduction to Cyber Security
 
-## Tryhackme Cybersecurity101 walkthrough
+[Offensive Security Intro]()  
+[Defensive Security Intro]()  
+[Career in Cyber]()  
 
-- network protocol room
-- network security
+## SECTION 2: Network Fundamentals
 
+[What is Networking?]()  
+[Intro to LAN]()  
+[OSI Model]()  
+[Packets & Frames]()  
+[Extending Your Network]()  
 
+## SECTION 3: How The Web Works
 
+[DNS in Detail]()  
+[HTTP in Detail]()  
+[How Websites Work]()  
+[Putting It All Together]()  
 
+## SECTION 4: Linux Fundamentals
 
+[Linux Fundamentals Part 1]()  
+[Linux Fundamentals Part 2]()  
+[Linux Fundamentals Part 3]()  
 
+## SECTION 5: Windows Fundamentals
 
-
-
+[Windows Fundamentals 1]()  
+[Windows Fundamentals 2]()  
+[Windows Fundamentals 3]()  
 
 
 

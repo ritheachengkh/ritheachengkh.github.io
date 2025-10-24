@@ -27,11 +27,11 @@ This blog is my space to document CTF walkthroughs, share tips for beginners, an
 ## 🎯Overthewire
 <a
   href="bandit/">
-  <img src="https://img.shields.io/badge/bandit-228B22" width="100">
+  <img src="https://img.shields.io/badge/Bandit-228B22" width="100">
 </a>
 
 ## 🎯Tryhackme
 <a
   href="PreSecurity/">
-  <img src="https://img.shields.io/badge/PreSecurityPath-4169E1" width="200">
+  <img src="https://img.shields.io/badge/PreSecurity-4169E1" width="200">
 </a>
