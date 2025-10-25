@@ -1,6 +1,5 @@
-
-<img src="THM.jpg" alt="THM" width=100%>
-
+![THM](THM.jpg)
+<!--<img src="THM.jpg" alt="THM" width=100%>-->
 
 ##### 🧭 LEARNING PATH
 # 🛡️ Pre Security
