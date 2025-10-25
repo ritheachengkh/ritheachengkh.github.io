@@ -1,6 +1,6 @@
 <img src="logo.png" width="150">
 
-# defensive_security_intro
+# Defensive Security Intro
 Introducing defensive security and related topics, such as Threat Intelligence, SOC, DFIR, Malware Analysis, and SIEM.
 
 ### Task 1 Introduction to Defensive Security

@@ -32,6 +32,6 @@ This blog is my space to document CTF walkthroughs, share tips for beginners, an
 
 ## 🎯Tryhackme
 <a
-  href="PreSecurity/">
+  href="presecurity/">
   <img src="https://img.shields.io/badge/PreSecurity-4169E1" width="200">
 </a>
