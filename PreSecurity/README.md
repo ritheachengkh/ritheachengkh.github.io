@@ -24,9 +24,9 @@ Stay curious, keep learning — and happy hacking! 🛡️💻
 
 ## SECTION 1: Introduction to Cyber Security
 
-[Offensive Security Intro]()  
-[Defensive Security Intro]()  
-[Career in Cyber]()  
+[Offensive Security Intro](offensive_security_intro/)  
+[Defensive Security Intro](defensive_security_intro/)  
+[Career in Cyber](career_in_cyber/)  
 
 ## SECTION 2: Network Fundamentals
 
