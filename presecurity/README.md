@@ -28,33 +28,36 @@ Stay curious, keep learning — and happy hacking! 🛡️💻
 [Defensive Security Intro](defensive_security_intro/)  
 [Career in Cyber](career_in_cyber/)  
 
+<!--
 ## SECTION 2: Network Fundamentals
 
-[What is Networking?]()  
-[Intro to LAN]()  
-[OSI Model]()  
-[Packets & Frames]()  
-[Extending Your Network]()  
+[What is Networking?](what_is_networking/)  
+[Intro to LAN](intro_to_lan/)  
+[OSI Model](osi_model/)  
+[Packets & Frames](packets_and_frames/)  
+[Extending Your Network](extending_your_network/)  
 
 ## SECTION 3: How The Web Works
 
-[DNS in Detail]()  
-[HTTP in Detail]()  
-[How Websites Work]()  
-[Putting It All Together]()  
+[DNS in Detail](dns_in_detail/)  
+[HTTP in Detail](http_in_detail/)  
+[How Websites Work](how_websites_work/)  
+[Putting It All Together](putting_it_all_together/)  
+-->
 
 ## SECTION 4: Linux Fundamentals
 
-[Linux Fundamentals Part 1]()  
-[Linux Fundamentals Part 2]()  
-[Linux Fundamentals Part 3]()  
+[Linux Fundamentals Part 1](linux_fundamentals_part_1/)  
+[Linux Fundamentals Part 2](linux_fundamentals_part_2/)  
+[Linux Fundamentals Part 3](linux_fundamentals_part_3/)  
 
+<!--
 ## SECTION 5: Windows Fundamentals
 
-[Windows Fundamentals 1]()  
-[Windows Fundamentals 2]()  
-[Windows Fundamentals 3]()  
-
+[Windows Fundamentals 1](windows_fundamentals_1/)  
+[Windows Fundamentals 2](windows_fundamentals_2/)  
+[Windows Fundamentals 3](windows_fundamentals_3/)  
+-->
 
 
 
