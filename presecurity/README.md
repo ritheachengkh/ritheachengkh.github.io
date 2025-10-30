@@ -28,7 +28,7 @@ Stay curious, keep learning — and happy hacking! 🛡️💻
 [Defensive Security Intro](defensive_security_intro/)  
 [Career in Cyber](career_in_cyber/)  
 
-<!--
+
 ## SECTION 2: Network Fundamentals
 
 [What is Networking?](what_is_networking/)  
@@ -36,7 +36,7 @@ Stay curious, keep learning — and happy hacking! 🛡️💻
 [OSI Model](osi_model/)  
 [Packets & Frames](packets_and_frames/)  
 [Extending Your Network](extending_your_network/)  
-
+<!--
 ## SECTION 3: How The Web Works
 
 [DNS in Detail](dns_in_detail/)  
