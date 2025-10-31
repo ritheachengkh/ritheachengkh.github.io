@@ -49,13 +49,12 @@ Stay curious, keep learning — and happy hacking! 🛡️💻
 [Linux Fundamentals Part 2](linux_fundamentals_part_2/)  
 [Linux Fundamentals Part 3](linux_fundamentals_part_3/)  
 
-<!--
 ## SECTION 5: Windows Fundamentals
 
 [Windows Fundamentals 1](windows_fundamentals_1/)  
 [Windows Fundamentals 2](windows_fundamentals_2/)  
 [Windows Fundamentals 3](windows_fundamentals_3/)  
--->
+
 
 
 
