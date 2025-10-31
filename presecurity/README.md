@@ -36,14 +36,12 @@ Stay curious, keep learning — and happy hacking! 🛡️💻
 [Packets & Frames](packets_and_frames/)  
 [Extending Your Network](extending_your_network/)  
 
-<!--
 ## SECTION 3: How The Web Works
 
 [DNS in Detail](dns_in_detail/)  
 [HTTP in Detail](http_in_detail/)  
 [How Websites Work](how_websites_work/)  
 [Putting It All Together](putting_it_all_together/)  
--->
 
 ## SECTION 4: Linux Fundamentals
 
