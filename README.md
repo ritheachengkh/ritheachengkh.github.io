@@ -30,8 +30,13 @@ This blog is my space to document CTF walkthroughs, share tips for beginners, an
   <img src="https://img.shields.io/badge/Bandit-228B22" width="100">
 </a>
 
+<a
+  href="natas/">
+  <img src="https://img.shields.io/badge/Natas-FFD700" width="100">
+</a>
+
 ## 🎯Tryhackme
 <a
   href="presecurity/">
-  <img src="https://img.shields.io/badge/PreSecurity-4169E1" width="200">
+  <img src="https://img.shields.io/badge/Pre%20Security-4169E1" width="200">
 </a>
