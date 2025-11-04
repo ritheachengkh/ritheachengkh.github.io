@@ -13,14 +13,14 @@ Happy hacking! 🕵️‍♂️💻
 [Natas level 1](natas1/)  
 [Natas level 2](natas2/)  
 [Natas level 3](natas3/)  
-
-<!--
 [Natas level 4](natas4/)  
 [Natas level 5](natas5/)  
 [Natas level 6](natas6/)  
 [Natas level 7](natas7/)  
 [Natas level 8](natas8/)  
 [Natas level 9](natas9/)  
+
+<!--
 [Natas level 10](natas10/)  
 [Natas level 11](natas11/)  
 [Natas level 12](natas12/)  
