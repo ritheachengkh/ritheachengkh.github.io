@@ -27,9 +27,9 @@ Happy hacking! 🕵️‍♂️💻
 [Natas level 15](natas15/)  
 [Natas level 16](natas16/)  
 [Natas level 17](natas17/)  
+[Natas level 18](natas18/)  
 
 <!--
-[Natas level 18](natas18/)  
 [Natas level 19](natas19/)  
 [Natas level 20](natas20/)  
 [Natas level 21](natas21/)  
