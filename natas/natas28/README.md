@@ -30,7 +30,7 @@ Next, we try it with the letter **“c”**.
 
 Similar to the previous test, it returns jokes that contain the letter “c.”
 
-![n28s7](n28s7.png)
+![n28s77](n28s77.png)
 
 We noticed the query was in Base64, so we tried decoding it, but had no luck.
 
