@@ -41,9 +41,11 @@ Since the query contained repeating segments, we experimented by trimming some p
 ![n28s9](n28s9.png)
 
 ### Doing some online research on PKCS#7
+```
 https://node-security.com/posts/cryptography-pkcs-7-padding/  
 https://ctf-wiki.mahaloz.re/crypto/blockcipher/mode/ecb/  
 https://www.slideserve.com/lynne/block-cipher-modes  
+```
 
 After researching PKCS#7, we discovered that the data is encrypted using ECB block cipher mode, which cannot be directly decrypted without the key. However, ECB has a known weakness: it preserves plaintext patterns, and we can exploit that.
 ![ECB](ECB.png)
