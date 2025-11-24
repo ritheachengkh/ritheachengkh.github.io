@@ -40,9 +40,9 @@ Happy hacking! 🕵️‍♂️💻
 [Natas level 28](natas28/)  
 [Natas level 29](natas29/)  
 [Natas level 30](natas30/)  
+[Natas level 31](natas31/)  
 
 <!--
-[Natas level 31](natas31/)  
 [Natas level 32](natas32/)  
 [Natas level 33](natas33/)  
 -->
