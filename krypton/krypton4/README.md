@@ -82,8 +82,8 @@ The Vigenère cipher uses a **keyword** to shift the letters of the plaintext. T
 
 3. After applying the shifts, you get the ciphertext:
 
-| Ciphertext | R | I | J | V | S |
-|------------|---|---|---|---|---|
+| Ciphertext | R | I | J | V | S |  
+|------------|---|---|---|---|---|  
 
 ### Security
 
