@@ -57,6 +57,8 @@ The Vigenère cipher uses a **keyword** to shift the letters of the plaintext. T
    - Shift it forward by a number corresponding to the position of the letter in the alphabet (A=0, B=1, ..., Z=25) for the key.
 4. The result is the **ciphertext**.
 
+---
+
 ### Example
 
 **Plaintext**: HELLO  
@@ -84,6 +86,7 @@ The Vigenère cipher uses a **keyword** to shift the letters of the plaintext. T
 
 **Ciphertext**: **RIJVS**
 
+---
 
 ### Security
 
