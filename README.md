@@ -37,7 +37,12 @@ This blog is my space to document CTF walkthroughs, share tips for beginners, an
 
 <a
   href="krypton/">
-  <img src="https://img.shields.io/badge/Krypton-FF7F50" width="120">
+  <img src="https://img.shields.io/badge/Krypton-FF4500" width="120">
+</a>
+
+<a
+  href="leviathan/">
+  <img src="https://img.shields.io/badge/Leviathan-663399" width="150">
 </a>
 
 ## 🎯Tryhackme
