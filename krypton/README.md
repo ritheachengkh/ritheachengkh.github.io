@@ -13,8 +13,6 @@ This documentation is meant as an educational resource — not a shortcut. Happy
 [Krypton level 3](krypton3/)  
 [Krypton level 4](krypton4/)  
 [Krypton level 5](krypton5/)  
-
-<!--
 [Krypton level 6](krypton6/)  
 [Krypton level 7](krypton7/)  
--->
+

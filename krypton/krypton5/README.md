@@ -1,4 +1,4 @@
-# 🔒 Krypton Level 0 → Level 1
+# 🔒 Krypton Level 5 → Level 6
 
 ## Level Info
 
