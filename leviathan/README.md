@@ -9,8 +9,6 @@ This documentation is meant as an educational resource — not a shortcut. Happy
 
 [Intro](Intro/)  
 [Leviathan level 0](leviathan0/)  
-
-<!--
 [Leviathan level 1](leviathan1/)  
 [Leviathan level 2](leviathan2/)  
 [Leviathan level 3](leviathan3/)  
@@ -18,6 +16,6 @@ This documentation is meant as an educational resource — not a shortcut. Happy
 [Leviathan level 5](leviathan5/)  
 [Leviathan level 6](leviathan6/)  
 [Leviathan level 7](leviathan7/)  
--->
+
 
 
