@@ -46,6 +46,12 @@ This blog is my space to document CTF walkthroughs, share tips for beginners, an
 </a>
 
 ## 🎯Tryhackme
+
+<a
+  href="aoc2025/">
+  <img src="https://img.shields.io/badge/Adent%20of%20Cyber%202025-006400" width="300">
+</a>
+
 <a
   href="presecurity/">
   <img src="https://img.shields.io/badge/Pre%20Security-4169E1" width="200">
