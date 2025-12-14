@@ -124,14 +124,21 @@ Create a password that passes all system checks and isn’t found in the leaked 
 2. Include uppercase, lowercase, numbers, and symbols.
 3. Ensure it isn’t in the breach database.
 
----
-
 What's the flag?
 
 ```
 ✅ THM{StrongStart}
 ```
 
+![t5s1](t5s1.png)
+
+```
+https://github.com/ritheachengkh/secure_password/blob/main/secure_password.py
+```
+
+![t5s2](t5s2.png)
+![t5s3](t5s3.png)
+![t5s4](t5s4.png)
 
 ---
 
@@ -163,6 +170,10 @@ What's the flag?
 ✅ THM{NotSoSweet}
 ```
 
+![t6s1](t6s1.png)
+![t6s2](t6s2.png)
+![t6s3](t6s3.png)
+
 
 ---
 
@@ -192,6 +203,8 @@ What's the flag?
 ✅ THM{Ready2Hack}
 ```
 
+![t7s1](t7s1.png)
+![t7s2](t7s2.png)
 
 ---
 
@@ -222,7 +235,8 @@ What's the flag?
 ✅ THM{WhereIsMcSkidy}
 ```
 
-
+![t8s1](t8s1.png)
+![t8s2](t8s2.png)
 
 ---
 
@@ -252,7 +266,8 @@ What's the flag?
 ✅ THM{TrustNoBunny}
 ```
 
-
+![t9s1](t9s1.png)
+![t9s2](t9s2.png)
 
 ---
 
@@ -283,6 +298,9 @@ What's the flag?
 ✅ THM{LeakedAndFound}
 ```
 
+![t10s1](t10s1.png)
+![t10s2](t10s2.png)
+![t10s3](t10s3.png)
 
 ---
 
@@ -312,6 +330,10 @@ What's the flag?
 ✅ THM{NoMoreDefault}
 ```
 
+![t11s1](t11s1.png)
+![t11s2](t11s2.png)
+![t11s3](t11s3.png)
+![t11s4](t11s4.png)
 
 ---
 
@@ -341,7 +363,9 @@ What's the flag?
 ✅ THM{AppTrapped}
 ```
 
-
+![t12s1](t12s1.png)
+![t12s2](t12s2.png)
+![t12s3](t12s3.png)
 
 ---
 
@@ -372,7 +396,11 @@ What's the flag?
 ✅ THM{DontFeedTheBot}
 ```
 
+![t13s1](t13s1.png)
 
+![t13s2](t13s2.png)
+
+![t13s3](t13s3.png)
 
 ---
 
@@ -405,7 +433,8 @@ What's the flag?
 ✅ THM{EastmasIsComing}
 ```
 
-
+![t14s1](t14s1.png)
+![t14s2](t14s2.png)
 
 ---
 
