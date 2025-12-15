@@ -14,7 +14,7 @@ https://tryhackme.com/room/linuxcli-aoc2025-o1fpqkvxti
 
 The unthinkable has happened - McSkidy has been kidnapped. Without her, Wareville’s defenses are faltering, and Christmas itself hangs by a thread. But panic won’t save the season. A long road lies ahead to uncover what truly happened. The TBFC (The Best Festival Company) team already brainstorms what to do next, and their first lead points to the tbfc-web01, a Linux server processing Christmas wishlists. Somewhere within its data may lie the truth: traces of McSkidy’s final actions, or perhaps the clues to King Malhare’s twisted vision for EASTMAS.
 
-![2](2.png)
+<img src="2.png" width="250">
 
 ### Learning Objectives
 
@@ -64,7 +64,7 @@ In her guide, McSkidy refers to ``/var/log/``, a Linux directory where all secur
 
 ![6](6.png)
 
-![7](7.png)
+<img src="7.png" width="250">
 
 ### Finding the Files
 
@@ -95,7 +95,7 @@ The Eggstrike script you read seems to be stealing Christmas wishes and replacin
 
 ### Sir Carrotbane Attacks
 
-![11](11.png)
+<img src="11.png" width="250">
 
 Now it is clear that the server has been breached, and the Christmas wishlist has been replaced with an EASTMAS one. Although you found no clue of what happened to McSkidy, at least you know the attackers were there. You can see how Sir Carrotbane replaced the wishlist by visiting `http://MACHINE_IP:8080` from the VM's web browser. You can open it by clicking the Firefox icon on the Desktop.
 
@@ -137,6 +137,9 @@ Complete on machine
 ✅ THM{learning-linux-cli}
 ```
 
+![t2s1](t2s1.png)
+![t2s2](t2s2.png)
+
 Which command helped you filter the logs for failed logins?
 
 ```
@@ -148,6 +151,8 @@ Complete on machine
 ```
 ✅ THM{sir-carrotbane-attacks}
 ```
+
+![t2s3](t2s3.png)
 
 Which command would you run to switch to the root user?
 
@@ -161,7 +166,9 @@ Finally, what flag did Sir Carrotbane leave in the root bash history?
 ✅ THM{until-we-meet-again}
 ```
 
-### Side Quest
+![t2s4](t2s4.png)
+
+### Side Quest 1 Key
 
 
 For those who consider themselves intermediate and want another challenge, check McSkidy's hidden note in ``/home/mcskidy/Documents/`` to get access to the key for **Side Quest 1**! Accessible through our Side Quest Hub!

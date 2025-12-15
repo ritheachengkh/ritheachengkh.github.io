@@ -11,9 +11,9 @@ https://tryhackme.com/adventofcyber25
 Participants will learn **how cyber attacks work**, **how hackers think**, and **how to protect systems, data, and personal information** in today’s digital world 💻🛡️. By completing daily challenges, learners can earn **certificates 📜, digital badges 🏅, and chances to win exciting prizes 🎉**—making it a fun, interactive, and rewarding way to build practical cybersecurity skills, with **no prior experience required**.
 
 [Prep Track](preptrack/)  
+[Day 1](day1/)  
 
 <!--
-[Day 1](day1/)  
 [Side Quest 1](sidequest1/)  
 [Day 2](day2/)  
 [Day 3](day3/)  
