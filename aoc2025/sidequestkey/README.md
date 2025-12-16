@@ -253,6 +253,10 @@ https://static-labs.tryhackme.cloud/apps/hoppers-invitation/
 
 When you start the machine in The Great Disappearing Act, it will prompt you for a key.
 
+```
+https://tryhackme.com/room/sq1-aoc2025-FzPnrt2SAu
+```
+
 ![c5s4](c5s4.png)
 
 
