@@ -2,6 +2,8 @@
 
 ![sq0](sq0.jpg)
 
+## Clue:
+
 For those who consider themselves intermediate and want another challenge, check McSkidy’s hidden note in ``/home/mcskidy/Documents/`` to get access to the key for **Side Quest 1**! Accessible through our Side Quest Hub!
 
 ```
