@@ -1,61 +1,60 @@
-# Side Quest 1 Key 🔑
+# Side Quest 2 Key 🔑
 
-
+<img src="jester.svg" width="250">
 
 ## Clue:
 
-For those who consider themselves intermediate and want another challenge, check McSkidy’s hidden note in ``/home/mcskidy/Documents/`` to get access to the key for **Side Quest 1**! Accessible through our Side Quest Hub!
+For those who want another challenge, have a look around the VM to get access to the key for **Side Quest 2**! Accessible through our Side Quest Hub!
 
 ```
-https://tryhackme.com/room/linuxcli-aoc2025-o1fpqkvxti
+https://tryhackme.com/room/attacks-on-ecrypted-files-aoc2025-asdfghj123
 https://tryhackme.com/adventofcyber25/sidequest
 ```
 
+When I looked at the VM on day 9, I came across an interesting file, ``.Passwords.kdbx``.
 
-## Part 1: Finding the Fragments
+![clue1](clue1.png)
 
+### What does the .kdbx file do?
 
-## Part 2: Decode the Message
+A **KDBX** file is a password database created by KeePass Password Safe, which securely stores encrypted passwords and login credentials. It can only be accessed using a master password set by the user.
 
+---
 
-
-## Part 3: Restore the Website
-
-
-
-## Part 4: Get the Key
-
-
-
-## Part 5: Access the Side Quest
+Next, we use **keepass2john** to extract the password hash and save it to the desktop for cracking.
 
 ```
-https://tryhackme.com/adventofcyber25/story
+cd /home/ubuntu/Desktop/john/run
+./keepass2john ~/.Passwords.kdbx > ~/Desktop/kdbx.txt
 ```
 
-![c5s1](c5s1.png)
+![p1s1](p1s1.png)
 
 ```
-https://tryhackme.com/adventofcyber25/sidequest
+john --wordlist=/usr/share/wordlists/rockyou.txt kdbx.txt
 ```
 
-![c5s2](c5s2.png)
+![p1s2](p1s2.png)
 
-When you click on Hopper's Origin, a box will appear. If you enter the key, a message saying “invalid” may show up. Don’t worry—this happens to everyone.
+Go to the Applications menu and find the KeePassXC application.
 
-```
-https://static-labs.tryhackme.cloud/apps/hoppers-invitation/
-```
+![p1s3](p1s3.png)
 
-![c5s3](c5s3.png)
+After opening the application, input the password.
 
-When you start the machine in The Great Disappearing Act, it will prompt you for a key.
+![p1s4](p1s4.png)
 
-```
-https://tryhackme.com/room/sq1-aoc2025-FzPnrt2SAu
-```
+After that, head to the Advanced tab.
 
-![c5s4](c5s4.png)
+![p1s5](p1s5.png)
+
+In the Advanced tab, you should see `sq2.png`, which is what we're looking for.
+
+![p1s6](p1s6.png)
+
+Just open the file, and we’ll get the key.
+
+![p1s7](p1s7.png)
 
 
 
