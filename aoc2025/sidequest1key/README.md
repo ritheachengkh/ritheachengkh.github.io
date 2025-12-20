@@ -224,10 +224,12 @@ display /home/eddi_knapp/.secret/dir/sq1.png
 
 ![c4s13](c4s13.png)
 
+<!--
 **The key for Side Quest 1**
 ```
 now_you_see_me
 ```
+-->
 
 ---
 
