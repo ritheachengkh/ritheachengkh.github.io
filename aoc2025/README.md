@@ -13,8 +13,6 @@ Participants will learn **how cyber attacks work**, **how hackers think**, and *
 [Prep Track](preptrack/)  
 [Day 1](day1/)  
 [Side Quest 1 Key](sidequest1key/)  
-
-<!--
 [Day 2](day2/)  
 [Day 3](day3/)  
 [Day 4](day4/)  
@@ -35,6 +33,8 @@ Participants will learn **how cyber attacks work**, **how hackers think**, and *
 [Side Quest 3 Key](sidequest3key/)  
 [Day 18](day18/)  
 [Day 19](day19/)  
+
+<!--
 [Day 20](day20/)  
 [Day 21](day21/)  
 [Side Quest 4 Key](sidequest4key/)  

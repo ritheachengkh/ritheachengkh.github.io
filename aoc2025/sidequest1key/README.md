@@ -1,4 +1,4 @@
-# Side Quest Key 🔑
+# Side Quest 1 Key 🔑
 
 ![sq0](sq0.jpg)
 
