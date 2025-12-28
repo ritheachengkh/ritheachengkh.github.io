@@ -36,11 +36,11 @@ Participants will learn **how cyber attacks work**, **how hackers think**, and *
 [Day 20](day20/)  
 [Day 21](day21/)  
 [Side Quest 4 Key](sidequest4key/)  
-
-<!--
 [Day 22](day22/)  
 [Day 23](day23/)  
-[Day 24](day24/)
+[Day 24](day24/)  
+
+<!--
 [Side Quest 1](sidequest1/)  
 [Side Quest 2](sidequest2/)  
 [Side Quest 3](sidequest3/)
