@@ -1,6 +1,6 @@
 # Side Quest 3 Key 🔑
 
-<img src="jester.svg" width="250">
+<img src="egg.png" width="250">
 
 ```
 https://tryhackme.com/room/encoding-decoding-aoc2025-s1a4z7x0c3

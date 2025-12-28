@@ -1,6 +1,6 @@
 # Side Quest 2 Key 🔑
 
-<img src="jester.svg" width="250">
+<img src="egg.png" width="250">
 
 ## Clue:
 
